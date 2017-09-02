@@ -1,0 +1,2 @@
+﻿How to use ReactiveProeprty in Xamarin.Forms
+https://github.com/runceel/ReactiveProperty/blob/master/HowToUseXF.md

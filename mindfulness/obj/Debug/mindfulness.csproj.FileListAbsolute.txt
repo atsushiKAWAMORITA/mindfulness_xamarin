@@ -1,0 +1,8 @@
+/Users/atsushi/Desktop/Git/mindfulness_new/mindfulness/bin/Debug/mindfulness.dll
+/Users/atsushi/Desktop/Git/mindfulness_new/mindfulness/bin/Debug/mindfulness.pdb
+/Users/atsushi/Desktop/Git/mindfulness_new/mindfulness/obj/Debug/mindfulness.csproj.CoreCompileInputs.cache
+/Users/atsushi/Desktop/Git/mindfulness_new/mindfulness/obj/Debug/mindfulness.App.xaml.g.cs
+/Users/atsushi/Desktop/Git/mindfulness_new/mindfulness/obj/Debug/mindfulness.Views.mindfulnessPage.xaml.g.cs
+/Users/atsushi/Desktop/Git/mindfulness_new/mindfulness/obj/Debug/mindfulness.dll
+/Users/atsushi/Desktop/Git/mindfulness_new/mindfulness/obj/Debug/mindfulness.pdb
+/Users/atsushi/Desktop/Git/mindfulness_new/mindfulness/obj/Debug/mindfulness.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{00EE54FE-C7AD-4B31-9C7A-2E0E30ACB60E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/mindfulnessModel.cs">
+    <Files>
+      <File FileName="Views/mindfulnessPage.xaml" Line="24" Column="1" />
+      <File FileName="ViewModels/mindfulnessViewModel.cs" Line="38" Column="10" />
+      <File FileName="Models/mindfulnessModel.cs" Line="12" Column="9" />
+      <File FileName="Views/mindfulnessPage.xaml.cs" Line="8" Column="10" />
+      <File FileName="Data/Contents.cs" Line="41" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.mindfulness.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F4981157-29C6-4A7C-8876-1E96C9C7CE04" />
+</Properties>
